@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yifeima/CLionProjects/miniShell/Calc_time.h
+main.h
+/Users/yifeima/CLionProjects/miniShell/main.h
+
+/Users/yifeima/CLionProjects/miniShell/helperFunction.h
+main.h
+/Users/yifeima/CLionProjects/miniShell/main.h
+Calc_time.h
+/Users/yifeima/CLionProjects/miniShell/Calc_time.h
+
+/Users/yifeima/CLionProjects/miniShell/main.c
+main.h
+/Users/yifeima/CLionProjects/miniShell/main.h
+Calc_time.h
+/Users/yifeima/CLionProjects/miniShell/Calc_time.h
+helperFunction.h
+/Users/yifeima/CLionProjects/miniShell/helperFunction.h
+
+/Users/yifeima/CLionProjects/miniShell/main.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+string.h
+-
+signal.h
+-
+sys/resource.h
+-
+errno.h
+-
+fcntl.h
+-
+
