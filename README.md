@@ -1,4 +1,4 @@
-# CMPUT379 Assignment 1
+# MiniShell
 
 ## To run
 ```shell
